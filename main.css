@@ -1,0 +1,27 @@
+.amazon-header
+{
+    background-color: rgb(44, 38, 59);
+    height: 130px;
+    color: white;
+}
+.search-bar
+{
+    background-color: white;
+    margin-left: 13vw;
+    height: 35px;
+    margin-right: 25vw;
+    margin-top: 0.25vw;
+}
+.button
+{
+    background-color: yellow;
+    margin-right:25vw;
+    height: 35px;
+    margin-left: 72vw;
+    margin-top: 0.25vw;
+}
+.grey
+{
+    border: 1px solid black;
+    background-color: grey;
+}
